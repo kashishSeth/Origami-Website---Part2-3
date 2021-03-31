@@ -1,0 +1,181 @@
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 20px;
+    font-size: "50px";
+    font-family:cursive;
+    font-weight: 400;
+    color:white;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    font-family:cursive;
+    font-size: 15px;
+}
+
+body{
+    margin: 0px;
+    align-content: space-between;
+    background-color: whitesmoke;
+}
+
+.item{
+    position: relative;
+}
+.item p{
+    color:white;
+    font-family: cursive;
+    font-size: 25px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -270%);
+    opacity:5;
+}
+.item h3{
+    color:white;
+    font-family:inherit;
+    font-size: 50px;
+    position: absolute;
+    top:10%;
+    left: 50%;
+    transform:translate(-50%, -950%);
+    opacity:5;
+} 
+
+a:link{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami1{ /*Camel*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 5%;
+    transform:translate(-20%, 111%);
+    opacity:5;}
+.origami2{ /*Chameleon*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(60%, 110%);
+    opacity:5;}
+.origami3{ /*Cicada*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(170%, 110.5%);
+    opacity:5;}
+.origami4{ /*Panda*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(395%, 110%);
+    opacity:5;}
+.origami5{ /*Pigeon*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(-49%, 240%);
+    opacity:5;}
+.origami6{ /*Teddy Bear*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(60%, 238.5%);
+    opacity:5;}
+.origami7{ /*Frog*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(282%, 110.5%);
+    opacity:5;}
+.origami8{ /*Giraffe*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(170%, 238.5%);
+    opacity:5;}
+.origami9{ /*Parrot*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(282%, 238.5%);
+    opacity:5;}
+.origami10{ /*Cat*/
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:cursive;
+    position: absolute;
+    top:10%;
+    left: 10%;
+    transform:translate(395%, 238%);
+    opacity:5;}    
